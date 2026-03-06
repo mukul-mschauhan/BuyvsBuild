@@ -12,12 +12,11 @@ A Python AI agent application that analyzes business problems and generates stru
   - Final recommendation
 - Streamlit UI for interactive usage
 ## Project Structure
-app.py
-agent.py
-decision_framework.py
-gemini_model.py
-requirements.txt
-README.md
+- app.py
+- agent.py
+- decision_framework.py
+- gemini_model.py
+- requirements.txt
 ## Setup
 1. Create and activate a virtual environment:
 
